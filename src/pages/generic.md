@@ -1,5 +1,5 @@
 ---
-title: Just a Generic Page
+title: Hakkımda
 subtitle: Just a generic subtitle for the page
 template: page
 ---
